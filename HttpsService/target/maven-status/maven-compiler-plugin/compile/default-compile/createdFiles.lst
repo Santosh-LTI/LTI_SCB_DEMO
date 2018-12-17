@@ -1,0 +1,5 @@
+com\scb\HttpsService\service\HttpsRequestServiveImpl.class
+com\scb\HttpsService\controller\HttpsRequestController.class
+com\scb\HttpsService\service\HttpsRequestService.class
+com\scb\HttpsService\HttpsServiceApplication.class
+com\scb\HttpsService\utils\HttpsServiceConstant.class
